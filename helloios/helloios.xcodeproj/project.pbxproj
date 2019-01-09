@@ -14,6 +14,7 @@
 		72818AEA21E6A1A700A09C4E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72818AE821E6A1A700A09C4E /* LaunchScreen.storyboard */; };
 		72818AF521E6A1A700A09C4E /* helloiosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72818AF421E6A1A700A09C4E /* helloiosTests.swift */; };
 		72818B0021E6A1A700A09C4E /* helloiosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72818AFF21E6A1A700A09C4E /* helloiosUITests.swift */; };
+		72818B1221E6A77100A09C4E /* Microsoft_Smile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72818B1121E6A77100A09C4E /* Microsoft_Smile.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		72818AFB21E6A1A700A09C4E /* helloiosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloiosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72818AFF21E6A1A700A09C4E /* helloiosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloiosUITests.swift; sourceTree = "<group>"; };
 		72818B0121E6A1A700A09C4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72818B1121E6A77100A09C4E /* Microsoft_Smile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Microsoft_Smile.jpg; path = ../../../../Downloads/Microsoft_Smile.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				72818AE621E6A1A700A09C4E /* Assets.xcassets */,
 				72818AE821E6A1A700A09C4E /* LaunchScreen.storyboard */,
 				72818AEB21E6A1A700A09C4E /* Info.plist */,
+				72818B1121E6A77100A09C4E /* Microsoft_Smile.jpg */,
 			);
 			path = helloios;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				72818AEA21E6A1A700A09C4E /* LaunchScreen.storyboard in Resources */,
+				72818B1221E6A77100A09C4E /* Microsoft_Smile.jpg in Resources */,
 				72818AE721E6A1A700A09C4E /* Assets.xcassets in Resources */,
 				72818AE521E6A1A600A09C4E /* Main.storyboard in Resources */,
 			);
