@@ -48,7 +48,7 @@
 		72818AFB21E6A1A700A09C4E /* helloiosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloiosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72818AFF21E6A1A700A09C4E /* helloiosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloiosUITests.swift; sourceTree = "<group>"; };
 		72818B0121E6A1A700A09C4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		72818B1121E6A77100A09C4E /* Microsoft_Smile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Microsoft_Smile.jpg; path = ../../../../Downloads/Microsoft_Smile.jpg; sourceTree = "<group>"; };
+		72818B1121E6A77100A09C4E /* Microsoft_Smile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Microsoft_Smile.jpg; path = ../Microsoft_Smile.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
